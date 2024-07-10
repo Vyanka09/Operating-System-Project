@@ -1,0 +1,30 @@
+
+Program Terminated abnormally		Time Limit Exceeded
+IC = 1	Toggle: 0	TLC: 0	TTC: 2	TTL: 1	TLL: 2	G	D	1	0
+
+IS SAME                                 
+
+Program Terminated Successfully
+IC = 11	Toggle : 1	TLC : 1	TTC : 13	TTL : 20	TLL : 2	H	 	 	 
+
+I LIKE THIS HAT OF                      
+
+Program Terminated abnormally		Line Limit Exceeded
+IC = 3	Toggle: 0	TLC: 2	TTC: 4	TTL4	TLL1	P	D	1	0
+
+
+Program Terminated abnormally		Operation Code Error
+IC = 1	Toggle: 0	TLC: 0	TTC: 1	TTL: 4	TLL: 1	x	y	1	0
+
+
+Program Terminated abnormally		Operand Error
+IC = 0	Toggle: 0	TLC: 0	TTC: 0	TTL: 4	TLL: 1	x	y	1	0
+
+IC = 1	Toggle: 0	TLC: 0	TTC: 2	TTL4	TLL1	G	D	l	o
+
+
+Program Terminated abnormally		Out of Data
+IC = 1	Toggle: 0	TLC: 0	TTC: 2	TTL4	TLL1	G	D	1	0
+
+
+Program Terminated abnormally		Invalid Page Fault
